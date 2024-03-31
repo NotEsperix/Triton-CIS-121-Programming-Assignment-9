@@ -44,3 +44,4 @@ Replace X with the assignment number. To run the compiled program, use:
 
 If you have any questions, suggestions, or would like to collaborate on future projects, please feel free to contact me at eventura765@yahoo.com.
 
+(Side Note: Typically I make small little Easter eggs or jokes in my code, however I sort of went off and made a whole side game on assignment four. So there's that if you wanna play it.)
